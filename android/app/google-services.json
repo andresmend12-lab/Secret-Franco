@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82347712238",
+    "project_id": "secret-franco",
+    "storage_bucket": "secret-franco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82347712238:android:4ad8de779892cccb5c9dff",
+        "android_client_info": {
+          "package_name": "com.secretfranco.secret_franco_temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMeJkoMMm12YgVShP7XJr-1ieAxuX7Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
